@@ -4,6 +4,8 @@
 
 <!-- code_chunk_output -->
 
+## THIS IS A COPY OF KOGPT2 BY SKT-AI LABS
+
 - [KoGPT2 (한국어 GPT-2)](#kogpt2-한국어-gpt-2)
   - [Why'?'](#why)
   - [Model](#model)
